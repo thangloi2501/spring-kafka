@@ -1,4 +1,4 @@
-package com.baeldung.kafka.embedded;
+package com.study.kafka.embedded;
 
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.equalTo;
